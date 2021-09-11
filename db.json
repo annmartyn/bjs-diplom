@@ -60,6 +60,54 @@
         "EUR": 600,
         "NTC": 90000
       }
+    },
+    {
+      "created_at": "2021-09-09T13:11:30.672Z",
+      "login": "anna@demo.ru",
+      "password": "demo",
+      "id": 6,
+      "balance": {
+        "RUB": 0,
+        "USD": 0,
+        "EUR": 0,
+        "NTC": 0
+      }
+    },
+    {
+      "created_at": "2021-09-09T13:17:33.345Z",
+      "login": "katya@demo.ru",
+      "password": "demo",
+      "id": 7,
+      "balance": {
+        "RUB": 0,
+        "USD": 0,
+        "EUR": 0,
+        "NTC": 0
+      }
+    },
+    {
+      "created_at": "2021-09-09T13:18:44.392Z",
+      "login": "emma@demo.ru",
+      "password": "demo",
+      "id": 8,
+      "balance": {
+        "RUB": 0,
+        "USD": 0,
+        "EUR": 0,
+        "NTC": 0
+      }
+    },
+    {
+      "created_at": "2021-09-09T13:19:20.851Z",
+      "login": "mary@demo.ru",
+      "password": "demo",
+      "id": 9,
+      "balance": {
+        "RUB": 0,
+        "USD": 0,
+        "EUR": 0,
+        "NTC": 0
+      }
     }
   ],
   "favorites": {
