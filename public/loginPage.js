@@ -7,7 +7,7 @@ userForm.loginFormCallback = data => ApiConnector.login(data, response => {
     if (response.success === true) {
         window.location.reload();
     } else {
-        alert(response.error);
+        userForm.setLoginErrorMessage('Произошла ошибка: ' + '${response.error}');
     };
 });
 
